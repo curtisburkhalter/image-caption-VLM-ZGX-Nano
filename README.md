@@ -214,7 +214,7 @@ Press `Ctrl+C` in the terminal running the demo to gracefully shutdown all servi
 
 ## Support
 
-For technical issues or questions about the HP ZGX Nano and ZGX Toolkit, reach out Curtis Burkhalter at curtis.burkhalter@hp.com
+For technical issues or questions about the HP ZGX Nano and ZGX Toolkit, reach out Curtis Burkhalter at curtisburkhalter@gmail.com
 
 ## License
 
