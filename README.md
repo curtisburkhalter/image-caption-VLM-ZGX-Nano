@@ -1,4 +1,5 @@
 # Vision Language Model (VLM) Image Captioning Demo
+### This demo was created during my time as an AI Product Manager at HP
 
 A demonstration application showcasing Vision Language Model capabilities using the ViT-GPT2 model for automatic image caption generation. This demo is designed for HP ZGX Nano sales and marketing teams to showcase AI capabilities at events or customer calls.
 
